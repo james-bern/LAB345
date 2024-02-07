@@ -1,1 +1,0 @@
-copy /Y ..\CS3XX\executable.exe .\conversation.exe
